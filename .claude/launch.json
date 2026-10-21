@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "web-oiane",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [".claude/servidor.js"],
+      "port": 8748,
+      "autoPort": true
+    }
+  ]
+}
